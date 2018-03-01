@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FSMediaPickerController_Example' do
+  pod 'FSMediaPickerController', :path => '../'
+
+  target 'FSMediaPickerController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
