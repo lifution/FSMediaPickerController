@@ -1,0 +1,22 @@
+{
+  "name": "FSMediaPickerController",
+  "version": "0.1.0",
+  "summary": "A short description of FSMediaPickerController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lifusheng/FSMediaPickerController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lifusheng": "lifution@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/lifusheng/FSMediaPickerController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FSMediaPickerController/Classes/**/*"
+}
